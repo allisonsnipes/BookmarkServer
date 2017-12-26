@@ -1,13 +1,13 @@
 
 verify_ssl == true
 
-dj-database-url = "*"
-django = "*"
-gunicorn = "*"
-psycopg2 = "*"
-whitenoise = "*"
+dj-database-url == "*"
+django == "*"
+gunicorn == "*"
+psycopg2 ==“*”
+whitenoise == "*"
 
-python_version = “3.6.3”
+python_version == “3.6.3”
 
 certifi==2017.7.27.1
 chardet==3.0.4
