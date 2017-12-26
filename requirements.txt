@@ -1,4 +1,4 @@
-url = "http://pypi.python.org/simple"
+
 verify_ssl = true
 
 dj-database-url = "*"
