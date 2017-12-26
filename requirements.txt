@@ -1,5 +1,5 @@
 
-verify_ssl = true
+verify_ssl == true
 
 dj-database-url = "*"
 django = "*"
