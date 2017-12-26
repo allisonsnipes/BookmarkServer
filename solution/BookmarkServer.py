@@ -2,7 +2,7 @@
 #
 # A *bookmark server* or URI shortener.
 
-import http
+import http.server
 import requests
 from urllib.parse import unquote, parse_qs
 
